@@ -8,17 +8,3 @@ Crie um `if` para cada variável, checando as seguintes afirmacões:
 - Se a pessoa NÃO está cursando alguma faculdade;
 
 Crie um `if` que imprima que a afirmacão é verdadeira, e um `else` para imprimir que a afirmacão não é verdadeira.
-
-<details>
-
-<summary>Exemplo</summary>
-
-Caso a primeira pessoa tenha idade >=18:
-
-<b>"A pessoa é maior de idade"</b>
-
-e caso não seja:
-
-<b>"A pessoa é menor de idade"</b>
-
-</details>
